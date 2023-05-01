@@ -19,3 +19,10 @@ Modules required:
 ### Weather Forecasting App ScreenShot
 
 ![Screenshot 2023-05-01 182051](https://user-images.githubusercontent.com/84131752/235453977-f4b0fe49-f4e7-4024-ae44-4616ffd6a1d3.png)
+
+
+##### Note:
+Steps to create the Configuration file:
+1. Create a text file named "waether_key"on your jupyter notebook.
+2. Write key name enclosed in closed brackets in it as [api].
+3. Create a variable key here I used was "key" and paste the key you copied from the Open Weather Map website.
