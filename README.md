@@ -6,7 +6,7 @@ The Weather app is use to check the weather for your current location. The weath
 
 ### Work Process
 
-Firstly, I to used a weather API for fetching the data from the Open Weather Map website by generating an API key, and then created a configuration file to store the key. Finally, I used that configuration file in the python script for Forecasting GUI App.
+Firstly, I to used a weather API for fetching the data from the Open Weather Map website by generating an API keyof Current Weather Data (that has an access of current weather data for any location on Earth including over 200,000 cities), and then created a configuration file to store the key. Finally, I used that configuration file in the python script for Forecasting GUI App.
 
 ### Tool Used
 
