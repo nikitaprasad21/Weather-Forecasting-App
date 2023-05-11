@@ -20,6 +20,9 @@ Modules required:
 
 ![Screenshot 2023-05-01 182051](https://user-images.githubusercontent.com/84131752/235453977-f4b0fe49-f4e7-4024-ae44-4616ffd6a1d3.png)
 
+Upgraded App Screenshot
+
+![Screenshot 2023-05-11 124449](https://github.com/nikitaprasad21/Weather-Forecasting-App/assets/84131752/232a0c3c-8db1-4de7-8db2-a58c92421540)
 
 ##### Note:
 Steps to create the Configuration file:
