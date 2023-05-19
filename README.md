@@ -31,7 +31,7 @@ Modules required:
 
 #### Upgraded App 2.0 Screenshot
 
-![Screenshot 2023-05-20 014356](https://github.com/nikitaprasad21/Weather-Forecasting-App/assets/84131752/375299ba-e598-4f1b-85ff-c038d9720214)
+![Screenshot 2023-05-20 014620](https://github.com/nikitaprasad21/Weather-Forecasting-App/assets/84131752/b66ac159-fcd5-4b23-bce3-a4b9ade790b8)
 
 
 ##### Note:
