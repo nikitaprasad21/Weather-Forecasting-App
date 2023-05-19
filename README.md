@@ -2,7 +2,8 @@
 
 ### Introduction
 
-The Weather app is use to check the weather for your current location. The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast.
+Ever wondered what the weather holds for your current location? The Weather app has you covered! Discover atmospheric pressure, conditions, visibility, humidity, precipitation, dew point, wind speed, direction, plus a 10-day future forecast and hourly updates. 
+Intriguing!
 
 ### Work Process
 
@@ -27,6 +28,11 @@ Modules required:
 #### Upgraded App Screenshot
 
 ![Screenshot 2023-05-11 124449](https://github.com/nikitaprasad21/Weather-Forecasting-App/assets/84131752/232a0c3c-8db1-4de7-8db2-a58c92421540)
+
+#### Upgraded App 2.0 Screenshot
+
+![Screenshot 2023-05-20 014356](https://github.com/nikitaprasad21/Weather-Forecasting-App/assets/84131752/375299ba-e598-4f1b-85ff-c038d9720214)
+
 
 ##### Note:
 Steps to create the Configuration file:
